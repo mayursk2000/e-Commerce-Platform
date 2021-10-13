@@ -36,7 +36,7 @@
                     <a href="#" class="font-rale font-size-14 text-white-50 pb-1">Order History</a>
                     <a href="#" class="font-rale font-size-14 text-white-50 pb-1">Wish List</a>
                     <a href="#" class="font-rale font-size-14 text-white-50 pb-1">Newslatters</a>
-                </div>
+                  </div>
             </div>
         </div>
     </div>
@@ -56,7 +56,7 @@
 <!--  isotope plugin cdn  -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
 
-<!-- Custom Javascript -->
+<!-- Custom Javascript here-->
 <script src="index.js"></script>
 </body>
 </html>
