@@ -90,7 +90,7 @@ $(document).ready(function(){
 
                 if($input.val() >= 1 && $input.val() <= 9){
                     $input.val(function(i, oldval){
-                        return ++oldval;
+                        return oldval++;
                     });
 
                     // increase price of the product
@@ -130,7 +130,7 @@ $(document).ready(function(){
                 }
 
             }}); // closing ajax request
-    }); // closing qty down button
+    }); // closing quantity down button
 
 
 });
