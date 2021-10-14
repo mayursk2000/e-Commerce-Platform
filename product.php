@@ -4,7 +4,6 @@ include ('header.php');
 ?>
 
 <?php
-
     /*  include products */
     include ('Template/_products.php');
     /*  include products */
