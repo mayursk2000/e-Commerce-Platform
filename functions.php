@@ -13,9 +13,9 @@ require ('database/Cart.php');
 // DBController object
 $db = new DBController();
 
-// Product object
+// Product object create
 $product = new Product($db);
 $product_shuffle = $product->getData();
 
-// Cart object
+// Cart object add
 $Cart = new Cart($db );
