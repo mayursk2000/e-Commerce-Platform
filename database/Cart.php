@@ -1,6 +1,6 @@
 <?php
 
-// php cart class
+// php of cart class
 class Cart
 {
     public $db = null;
