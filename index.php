@@ -5,7 +5,6 @@
 ?>
 <?php
 
-
     /*  include banner area  */
         include ('Template/_banner-area.php');
     /*  include banner area  */
