@@ -36,7 +36,6 @@ $(document).ready(function(){
         $grid.isotope({ filter: filterValue});
     })
 
-
     // new phones owl carousel
     $("#new-phones .owl-carousel").owlCarousel({
         loop: true,
