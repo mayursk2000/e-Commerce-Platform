@@ -69,7 +69,6 @@ $(document).ready(function(){
         }
     })
 
-
     // product qty section
     let $qty_up = $(".qty .qty-up");
     let $qty_down = $(".qty .qty-down");
